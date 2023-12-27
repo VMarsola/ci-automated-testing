@@ -1,0 +1,7 @@
+.home {
+  @apply text-center align-middle;
+}
+
+.home button {
+  @apply m-2;
+}

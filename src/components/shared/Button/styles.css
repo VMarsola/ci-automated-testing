@@ -1,0 +1,15 @@
+.S001-button {
+  @apply rounded-md px-4 py-2 text-white text-base capitalize font-medium border-none;
+}
+
+.S001-button:hover {
+  @apply brightness-90;
+}
+
+.primary {
+  @apply bg-blue-300;
+}
+
+.secondary {
+  @apply bg-gray-100;
+}
